@@ -1,0 +1,47 @@
+.utaralogo{
+   font-weight: 700;
+   border: none !important;
+}
+
+.bgprimary{
+    background: #fd7e14;
+}
+.borderradius {
+    border-radius: 35px;
+}
+
+.signotnbtn{
+    background: transparent;
+    color: #fff;
+    padding: 5px 5px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+}
+
+/* Add User Form */
+.bgcontainer{
+    background: rgba(246, 229, 222, 1);
+}
+.positionform{
+    position: relative;
+    border: 1px solid rgb(136, 3, 3);
+}
+
+.positionformcard {
+    color: rgb(106, 27, 59);
+    font-weight: 600;
+    background: transparent;
+    border: none;
+}
+
+.btnprimarysave {
+    background: rgb(106, 27, 59);
+    color: #fff;
+    font-weight: 600;
+}
+
+.btnprimarysave:hover {
+    border: 1px solid rgb(106, 27, 59);
+    color: rgb(106, 27, 59);
+    font-weight: 600;
+}

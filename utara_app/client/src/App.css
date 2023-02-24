@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+#navbar_top {
+  cursor: pointer;
+  top: 0;
+  position: sticky;
+  z-index: 10000;
+}
+
+.linkDecoration {
+  text-decoration: none !important;
+}
+
+.uploadBtn {
+  width: 92%;
+}
